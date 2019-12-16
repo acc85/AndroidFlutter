@@ -1,0 +1,121 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml:1:1-27:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\3ee3aa71de46efb3c64b32753c09cd75\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\97ddaa8f7ae817a2269c88c6b12071b6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\c8dbd76b9d247174387828daa1fddaed\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\4e1ef941a9c594be23fdfae883625094\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7ab897e9ae0371b60719c532632a6f4a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\a6a92ec02855e464bc7476d076fa3a86\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\675723ec7a8fc62755edd0b0b76509ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\968402ba3626ac9df7ffb5c6b4b883f7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7ca0bd0abc0d04c979cdec81400dfb83\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\546a1936a3fdef87a9cda23b2cb5316f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\7d8b50bd88d151155776706bb9184dcb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\cced03db0573a5e6d6ca4a3c54bad8a3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ae31ef4f3a41f9c7b1981b2f6044aeaf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\d10eaa07f258cf9d3aeca21f5a21edc5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6217ec6b6f946977c1469314babf0cee\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\776d176e191e33c620fb023b0027285c\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml:2:5-31
+		INJECTED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml:1:1-27:12
+		INJECTED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml:1:1-27:12
+		INJECTED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml:7:22-64
+application
+ADDED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml:14:5-26:19
+	android:label
+		ADDED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml:14:67-95
+	android:icon
+		ADDED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml:14:96-130
+	android:name
+		ADDED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml:14:18-66
+activity#com.example.view.MainActivity
+ADDED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml:15:9-25:20
+	android:launchMode
+		ADDED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml:16:19-49
+	android:hardwareAccelerated
+		ADDED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml:19:19-53
+	android:windowSoftInputMode
+		ADDED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml:20:19-61
+	android:configChanges
+		ADDED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml:18:19-150
+	android:theme
+		ADDED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml:17:19-57
+	android:name
+		ADDED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml:22:17-68
+	android:name
+		ADDED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml:23:17-76
+	android:name
+		ADDED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\3ee3aa71de46efb3c64b32753c09cd75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\3ee3aa71de46efb3c64b32753c09cd75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\97ddaa8f7ae817a2269c88c6b12071b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\97ddaa8f7ae817a2269c88c6b12071b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\c8dbd76b9d247174387828daa1fddaed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\c8dbd76b9d247174387828daa1fddaed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\4e1ef941a9c594be23fdfae883625094\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\4e1ef941a9c594be23fdfae883625094\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7ab897e9ae0371b60719c532632a6f4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7ab897e9ae0371b60719c532632a6f4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\a6a92ec02855e464bc7476d076fa3a86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\a6a92ec02855e464bc7476d076fa3a86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\675723ec7a8fc62755edd0b0b76509ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\675723ec7a8fc62755edd0b0b76509ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\968402ba3626ac9df7ffb5c6b4b883f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\968402ba3626ac9df7ffb5c6b4b883f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7ca0bd0abc0d04c979cdec81400dfb83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7ca0bd0abc0d04c979cdec81400dfb83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\546a1936a3fdef87a9cda23b2cb5316f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\546a1936a3fdef87a9cda23b2cb5316f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\7d8b50bd88d151155776706bb9184dcb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\7d8b50bd88d151155776706bb9184dcb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\cced03db0573a5e6d6ca4a3c54bad8a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\cced03db0573a5e6d6ca4a3c54bad8a3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ae31ef4f3a41f9c7b1981b2f6044aeaf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ae31ef4f3a41f9c7b1981b2f6044aeaf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\d10eaa07f258cf9d3aeca21f5a21edc5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\d10eaa07f258cf9d3aeca21f5a21edc5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6217ec6b6f946977c1469314babf0cee\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6217ec6b6f946977c1469314babf0cee\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\776d176e191e33c620fb023b0027285c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Raymond\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\776d176e191e33c620fb023b0027285c\AndroidManifest.xml:20:5-44
+INJECTED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\flutter-example\flutter_view\android\app\src\main\AndroidManifest.xml
